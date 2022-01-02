@@ -1,3 +1,3 @@
-![](https://raw.githubusercontent.com/BleachDrinker420/BleachDrinker420/main/60e5c009d2da4.gif)
+![](https://raw.githubusercontent.com/BleachDrinker420/BleachDrinker420/main/60e5c009d2da4.gif) [](https://komarev.com/ghpvc/?username=bleachdrinker420&style=flat-square)
 ### holy crap lois
 ###### Discord: Bleach#0136
