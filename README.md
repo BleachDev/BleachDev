@@ -9,5 +9,5 @@ https://bleach.dev
   <summary>Contact</summary>
   
   - Discord: `Bleach#0136`   
-  - Email: `bleachhackcorp@gmail.com`
+  - Email: `me@bleach.dev`
 </details>
