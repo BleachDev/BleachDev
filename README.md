@@ -1,9 +1,10 @@
-![](https://raw.githubusercontent.com/BleachDrinker420/BleachDrinker420/main/60e5c009d2da4.gif)  
-![](https://komarev.com/ghpvc/?username=bleachdrinker420&style=flat-square&label=Garfield+Cube+Views)
+<img src="https://bleach.dev/static/typing.gif" height="128">
+
+![](https://komarev.com/ghpvc/?username=bleachdrinker420&style=flat-square)
 
 ### About
 devloper and domain buying addict  
-https://bleach.dev  
+https://bleach.dev/  
 
 <details>
   <summary>Contact</summary>
