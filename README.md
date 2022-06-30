@@ -1,4 +1,4 @@
-<img src="https://bleach.dev/static/typing.gif" height="128">
+<img src="https://bleach.dev/static/img/typing.gif" height="128">
 
 ![](https://komarev.com/ghpvc/?username=bleachdrinker420&style=flat-square)
 
