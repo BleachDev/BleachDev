@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=bleachdrinker420&style=flat-square)
 
 ### About
-hobbyist devloper, domain buying addict and local crackhead  
+hobbyist devloper, domain buying addict and avid garifeld enjoyer  
+https://bleach.dev/  
 
 <details>
   <summary>Contact</summary>
