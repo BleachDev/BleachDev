@@ -1,7 +1,8 @@
 <img src="https://bleach.dev/static/img/typing.webp" height="128">
 
-### About Me
-hobbyist devloper, domain buying addict and avid garifeld enjoyer  
+### About Me  
+
+Hobbyist developer, creator of silly things, and avid cat enjoyer  
 https://bleach.dev/  
 
 <details>
