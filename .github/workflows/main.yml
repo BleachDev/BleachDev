@@ -17,3 +17,4 @@ jobs:
           token: ${{ secrets.METRICS }}
           plugin_languages: yes
           plugin_people: yes
+          plugin_languages_ignored: ("html", "css")
